@@ -12,6 +12,6 @@ public class Capholder {
         s = 0.5 * 9.8 * time * time;
         System.out.println("The speed of the object at 6.0 seconds after its release is " + v + " and the distance the object has travelled in the 6.0 seconds after the relase is " + s);
 
-
     }
+
 }
